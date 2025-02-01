@@ -107,13 +107,13 @@ def Logic():
     for i in range(nTail):
         if tailX[i] == x and tailY[i] == y:
             gameOver = True
-            threading.Thread(target=playsound, args=("C:\\Users\\luter\\Downloads\\gameover yeeeeeeeeeeee.mp3",)).start()
+            threading.Thread(target=playsound, args=("gameover yeeeeeeeeeeee.mp3",)).start()
 
     if x == fruitX and y == fruitY:
         score += 10
         fruitX, fruitY = random.randint(0, width - 1), random.randint(0, height - 1)
         nTail += 1
-        threading.Thread(target=playsound, args=("C:\\Users\\luter\\Downloads\\fart.mp3",)).start()
+        threading.Thread(target=playsound, args=("fart.mp3",)).start()
 
 def main():
     Setup()
