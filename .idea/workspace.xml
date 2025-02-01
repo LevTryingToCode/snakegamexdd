@@ -1,8 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="f03920eb-e857-4dae-be8e-89433f002791" name="Changes" comment="very sigma game loloolololololol">
-      <change afterPath="$PROJECT_DIR$/yoyoyoy.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fart.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gameover yeeeeeeeeeeee.mp3" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/yoyoyoy.py" beforeDir="false" afterPath="$PROJECT_DIR$/yoyoyoy.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -46,14 +52,25 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "hohoo",
     "ignore.virus.scanning.warn.message": "true",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\luter\PycharmProjects\snakegamexdd" />
+    </key>
+  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -72,7 +89,7 @@
       <updated>1738411426693</updated>
       <workItem from="1738411427784" duration="21000" />
       <workItem from="1738411454637" duration="150000" />
-      <workItem from="1738411609508" duration="58000" />
+      <workItem from="1738411609508" duration="450000" />
     </task>
     <task id="LOCAL-00001" summary="very sigma game loloolololololol">
       <option name="closed" value="true" />
@@ -82,7 +99,15 @@
       <option name="project" value="LOCAL" />
       <updated>1738411500977</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="very sigma game loloolololololol">
+      <option name="closed" value="true" />
+      <created>1738411690329</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1738411690329</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
